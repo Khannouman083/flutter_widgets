@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "252771998682",
+    "project_id": "thirtyconcepts-8808c",
+    "storage_bucket": "thirtyconcepts-8808c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252771998682:android:6d1c0b6b8c70e7a10cfee3",
+        "android_client_info": {
+          "package_name": "com.nouman.thirtyConcepts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWF0TxUbueYxB_OwrsfAltbYQ9QrVwUb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
